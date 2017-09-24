@@ -3,6 +3,12 @@
 > [Kotlin](Span.kt) and [Java](Span.java) wrappers around SpannableStringBuilder.  
 > Inspired by JakeWharton's [Truss](https://gist.github.com/JakeWharton/11274467) and Kotlin's [kotlinx.html](https://github.com/Kotlin/kotlinx.html)
 
+<br>
+
+**Supported Spans:**
+
+`AbsoluteSizeSpan` `AlignmentSpan` `BackgroundColorSpan` `BulletSpan` `ClickableSpan` `DrawableMarginSpan` `ForegroundColorSpan` `IconMarginSpan` `ImageSpan` `LeadingMarginSpan` `MaskFilterSpan` `QuoteSpan` `RelativeSizeSpan` `ScaleXSpan` `StrikethroughSpan` `StyleSpan` `SubscriptSpan` `SuperscriptSpan` `TextAppearanceSpan` `TypefaceSpan` `URLSpan` `UnderlineSpan`
+
 ## Usage
 
 ### Kotlin
